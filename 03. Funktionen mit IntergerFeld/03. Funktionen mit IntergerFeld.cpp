@@ -5,7 +5,7 @@ void summe(int[]);
 
 int main()
 {
-    int messwerte[10];// = { 0 };
+    int messwerte[10]= { 0 };
     for (int i = 0; i <= 9; i++)
     {
         cout << messwerte[i] << endl;
